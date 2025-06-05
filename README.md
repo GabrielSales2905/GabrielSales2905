@@ -8,7 +8,7 @@ I'm a Production Engineer passionate about transforming data into insights and a
 - Automating data ingestion from APIs into SQL databases
 - Developing dashboards to support operational and financial decision-making
 - Learning advanced data engineering techniques
-- Implementing AI on dashboards for profissionals analysis
+- Implementing AI on dashboards for professionals analysis
 
 ## 🚀 Skills
 - **Languages:** Python (Pandas, NumPy, Requests), SQL (T-SQL, PostgreSQL, MySQL)
