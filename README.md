@@ -44,7 +44,7 @@ I'm a Production Engineer passionate about transforming data into insights and a
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-💼 **Currently working on:**
+## 💼 **Currently working on:**
 - Automating data ingestion from APIs into SQL databases
 - Developing dashboards to support operational and financial decision-making
 - Learning advanced data engineering techniques
