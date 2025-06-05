@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst | BI Developer | Data Automation | SQL | Python | Power BI | APIs**
 
-I'm a Production Engineer passionate about transforming data into insights and automating processes. I build end-to-end data solutions — from data extraction and transformation to insightful dashboards.
+I'm a Production Engineer passionate about transforming data into insights and automating processes. I build end-to-end data solutions from data extraction and transformation to insightful dashboards.
 
 ## 🚀 Tech Stack
 
@@ -51,8 +51,6 @@ I'm a Production Engineer passionate about transforming data into insights and a
 - Implementing AI on dashboards for professionals analysis
 
 ## 🚀 Skills
-- **Languages:** Python (Pandas, NumPy, Requests), SQL (T-SQL, PostgreSQL, MySQL)
-- **BI Tools:** Power BI (DAX, Power Query)
 - **Data Engineering:** ETL Pipelines, APIs consumption, SQL procedures
 - **Cloud:** AWS (S3, RDS basics), Azure basics
 - **Version Control:** Git & GitHub
