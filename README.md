@@ -1,60 +1,76 @@
-# 👋 Hello! I'm Gabriel Sales
+# 👋 Hey, I'm Gabriel Sales
 
-🎯 **Data Analyst | BI Developer | Data Automation | SQL | Python | Power BI | APIs**
+💻 Backend & Data Systems Developer  
+📊 Former FP&A / BI Analyst  
+🚀 Focused on building real-world data systems, not just dashboards
 
-I'm a Production Engineer passionate about transforming data into insights and automating processes. I build end-to-end data solutions from data extraction and transformation to insightful dashboards.
+---
 
-## 🚀 Tech Stack
+## 🧠 About Me
 
-### 🧠 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+I transitioned from Finance & BI into backend and data systems because I wanted to **solve real problems**, not just analyze them.
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenEdge-003B57?style=for-the-badge&logo=progress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-</p>
+Today, I build systems that:
+- Ingest and process financial data from multiple sources (APIs, files, databases)
+- Validate and reconcile transactions (data integrity focus)
+- Automate workflows that replace manual financial operations
 
-### 🔧 Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+My goal is to become a **world-class backend/data engineer working internationally**.
 
-### 🧰 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+---
 
-### 📊 Data Visualization
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
+## 🚀 What I'm Building
 
-## 💼 **Currently working on:**
-- Automating data ingestion from APIs into SQL databases
-- Developing dashboards to support operational and financial decision-making
-- Learning advanced data engineering techniques
-- Implementing AI on dashboards for professionals analysis
+### 🔐 Financial Data Firewall (in progress)
+A system designed to validate and reconcile financial transactions across:
 
-## 🚀 Skills
-- **Data Engineering:** ETL Pipelines, APIs consumption, SQL procedures
-- **Cloud:** AWS (S3, RDS basics), Azure basics
-- **Version Control:** Git & GitHub
+- 📄 XML invoices (SEFAZ)
+- 🏦 Bank data (OFX / Open Finance)
+- 🧾 ERP records
 
-## 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/gabriel-sales-69bb6b194/)
-- [Email](biesaless@gmail.com)
+Core idea:
+> No money leaves without validation.
+
+Features:
+- Triple match (Invoice × Bank × ERP)
+- Transaction scoring system (0–100)
+- Automated anomaly detection (wrong CNPJ, missing invoice, etc.)
+
+---
+
+## 🧰 Tech Stack (Used in Practice)
+
+### Backend & Data
+- Python (data pipelines, APIs, automation)
+- SQL (PostgreSQL)
+- REST APIs (data ingestion & validation)
+- Pandas (data processing)
+
+### Tools
+- Git & GitHub
+- VS Code
+- Linux (daily environment)
+
+---
+
+## 📦 Current Focus
+
+- Building backend systems from scratch (no frameworks dependency first)
+- Understanding how data flows in real systems (not tutorials)
+- Practicing problem-solving (LeetCode + real projects)
+
+---
+
+## 📈 What Makes Me Different
+
+- Strong business + financial background (FP&A)
+- I understand the **meaning behind the data**, not just the code
+- Focus on **systems, not dashboards**
+- Learning fast through building, not consuming
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/gabriel-sales-69bb6b194/
+- Email: biesaless@gmail.com
