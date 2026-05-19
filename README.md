@@ -1,63 +1,72 @@
-# 👋 Hey, I'm Gabriel Sales
+# Hey, I'm Gabriel Sales 👋
 
-💻 Backend & Data Systems Developer  
-🚀 Focused on building real-world systems that process, validate and automate data
-
----
-
-## 🧠 About Me
-
-I started in Finance & BI, but realized I didn’t want to just analyze data — I wanted to **build the systems behind it**.
-
-Today, I focus on developing systems that:
-- Ingest data from multiple sources (APIs, files, databases)
-- Validate and transform data reliably
-- Automate workflows that replace manual operations
-
-My goal is to become a backend/data engineer working on real-world systems at scale.
+Backend Developer focused on Go — building systems that are fast, concurrent, and production-ready.
 
 ---
 
-## 🚀 What I'm Building
+## About Me
 
-### 🧩 Data Validation & Processing System (in progress)
+My background is in Finance and BI (FP&A, data pipelines, SQL).  
+At some point I realized I didn't want to keep analyzing systems — I wanted to build them.
 
-A system designed to process and validate data across different sources.
+So I made the switch. I'm now focused on backend engineering with Go, with a specific interest in performance, concurrency, and systems that handle real load.
 
-Concepts being implemented:
-- Multi-source data ingestion (API, files, databases)
-- Data validation and consistency checks
-- Scoring and anomaly detection
-- Structured pipeline for processing data
+The finance background isn't baggage — it means I understand the business problems behind the code.
 
 ---
 
-## 🧰 Tech Stack
+## What I'm Building
 
-- Python (data pipelines, automation)
-- SQL (PostgreSQL)
-- REST APIs
-- Linux environment
+### [`financas-api`](https://github.com/gabrielsales/financas-api) — in progress
+A financial transactions REST API built from scratch.  
+Full stack: Go + Gin · PostgreSQL · Docker Compose · Clean Architecture
 
----
-
-## 📦 Current Focus
-
-- Building backend systems from scratch
-- Understanding system design fundamentals
-- Practicing problem solving (LeetCode + real projects)
+> This is my foundation project — I'm using it to solidify Go idioms before moving to more complex systems.
 
 ---
 
-## 📈 What Makes Me Different
+### [`fpna-intelligence`](https://github.com/gabrielsales/fpna-intelligence) — in progress
+A financial analysis automation tool built with Python.  
+Automates DRE consolidation, cash flow processing and generates structured reports — replacing manual Excel workflows.
 
-- Strong business background → I understand real problems
-- Focus on building systems, not just using tools
-- Learning by building real projects, not tutorials
+> Built from real-world FP&A pain points. This is where the finance background meets engineering.
 
 ---
 
-## 📫 Contact
+### Coming next
 
-- LinkedIn: ...
-- Email: ...
+| Project | What it solves | Key concepts |
+|---|---|---|
+| Rate Limiter Service | Protect APIs under high load | Token Bucket, Redis, middleware |
+| Real-time Notifications | WebSocket connections at scale | Goroutines, Redis Pub/Sub |
+| Distributed Job Queue | Reliable async processing | Worker pools, retry, dead letter |
+| Mini API Gateway | Centralized auth + routing | Reverse proxy, circuit breaker, Prometheus |
+
+---
+
+## Tech Stack
+
+```
+Go (primary)          PostgreSQL           Docker / Docker Compose
+Python                Redis                Git
+Gin                   SQL (strong)         Linux
+REST APIs             
+```
+
+Learning: Kubernetes · gRPC · pgx · GitHub Actions
+
+---
+
+## What I focus on
+
+- Writing Go the way the community actually writes it — not just making it work
+- Systems that handle concurrent load correctly (goroutines, Mutex, connection pools)
+- READMEs with real performance numbers, not just "it works"
+- Clean separation between handler → service → repository
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/gabriel-sales-69bb6b194/
+- Email: biesaless@gmail.com
